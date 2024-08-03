@@ -1,2 +1,3 @@
 # quantumware-Clone
-This is my first git Repository
+This is my first Git Repository
+Author-Akshaya kumar Sahu
